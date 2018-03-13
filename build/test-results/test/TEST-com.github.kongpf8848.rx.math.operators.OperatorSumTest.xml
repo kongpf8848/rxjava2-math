@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.github.kongpf8848.rx.math.operators.OperatorSumTest" tests="20" skipped="0" failures="0" errors="0" timestamp="2018-03-13T00:51:25" hostname="LAPTOP-SDNKLT73" time="0.033">
+  <properties/>
+  <testcase name="testLongSumSelectorEmpty" classname="com.github.kongpf8848.rx.math.operators.OperatorSumTest" time="0.009"/>
+  <testcase name="testIntegerSumSelectorEmpty" classname="com.github.kongpf8848.rx.math.operators.OperatorSumTest" time="0.001"/>
+  <testcase name="testIntegerSumSelectorThrows" classname="com.github.kongpf8848.rx.math.operators.OperatorSumTest" time="0.001"/>
+  <testcase name="testFloatSumSelector" classname="com.github.kongpf8848.rx.math.operators.OperatorSumTest" time="0.002"/>
+  <testcase name="testDoubleSumSelectorThrows" classname="com.github.kongpf8848.rx.math.operators.OperatorSumTest" time="0.002"/>
+  <testcase name="testLongSumSelector" classname="com.github.kongpf8848.rx.math.operators.OperatorSumTest" time="0.001"/>
+  <testcase name="testEmptySumDoubles" classname="com.github.kongpf8848.rx.math.operators.OperatorSumTest" time="0.0"/>
+  <testcase name="testLongSumSelectorThrows" classname="com.github.kongpf8848.rx.math.operators.OperatorSumTest" time="0.001"/>
+  <testcase name="testFloatSumSelectorThrows" classname="com.github.kongpf8848.rx.math.operators.OperatorSumTest" time="0.001"/>
+  <testcase name="testFloatSumSelectorEmpty" classname="com.github.kongpf8848.rx.math.operators.OperatorSumTest" time="0.001"/>
+  <testcase name="testSumOfAFewDoubles" classname="com.github.kongpf8848.rx.math.operators.OperatorSumTest" time="0.001"/>
+  <testcase name="testEmptySumFloats" classname="com.github.kongpf8848.rx.math.operators.OperatorSumTest" time="0.001"/>
+  <testcase name="testIntegerSumSelector" classname="com.github.kongpf8848.rx.math.operators.OperatorSumTest" time="0.001"/>
+  <testcase name="testDoubleSumSelector" classname="com.github.kongpf8848.rx.math.operators.OperatorSumTest" time="0.0"/>
+  <testcase name="testEmptySumLongs" classname="com.github.kongpf8848.rx.math.operators.OperatorSumTest" time="0.0"/>
+  <testcase name="testDoubleSumSelectorEmpty" classname="com.github.kongpf8848.rx.math.operators.OperatorSumTest" time="0.001"/>
+  <testcase name="testSumOfAFewFloats" classname="com.github.kongpf8848.rx.math.operators.OperatorSumTest" time="0.0"/>
+  <testcase name="testEmptySum" classname="com.github.kongpf8848.rx.math.operators.OperatorSumTest" time="0.001"/>
+  <testcase name="testSumOfAFewLongs" classname="com.github.kongpf8848.rx.math.operators.OperatorSumTest" time="0.0"/>
+  <testcase name="testSumOfAFewInts" classname="com.github.kongpf8848.rx.math.operators.OperatorSumTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
