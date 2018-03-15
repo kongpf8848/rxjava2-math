@@ -1,12 +1,25 @@
-﻿# rxjava2-math
+﻿﻿# rxjava2-math
 
 Math operators for [RxJava2](https://github.com/ReactiveX/RxJava).
 
 
 ## Use
+
+Example for Maven:
+
+```xml
+<dependency>
+    <groupId>com.github.kongpf8848</groupId>
+    <artifactId>rxjava2-math</artifactId>
+    <version>1.0.0</version>
+</dependency>
+```
+
+and for Gradle:
 ```groovy
 compile 'com.github.kongpf8848:rxjava2-math:1.0.0'
 ```
+
 
 ## Build
 
@@ -31,3 +44,4 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
