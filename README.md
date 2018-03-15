@@ -1,6 +1,6 @@
-﻿﻿# rxjava2-math
+# rxjava2-math
 
-Math operators for [RxJava2](https://github.com/ReactiveX/RxJava).
+Math operators for [RxJava2](https://github.com/ReactiveX/RxJava)
 
 
 ## Use
