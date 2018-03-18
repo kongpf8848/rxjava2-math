@@ -14,7 +14,11 @@ Example for Maven:
     <version>1.0.0</version>
 </dependency>
 ```
+and for Ivy:
 
+```xml
+<dependency org='com.github.kongpf8848' name='rxjava2-math' rev='1.0.0' />
+```
 and for Gradle:
 ```groovy
 compile 'com.github.kongpf8848:rxjava2-math:1.0.0'
